@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TensorFlow Examples
 Code examples for some popular machine learning algorithms, using TensorFlow library. This tutorial is designed to easily dive into TensorFlow, through examples. It includes both notebook and code with explanations.
 
@@ -70,3 +71,7 @@ For more details about TensorFlow installation, you can check [Setup_TensorFlow.
 ## Dataset
 Some examples require MNIST dataset for training and testing. Don't worry, this dataset will automatically be downloaded when running examples (with input_data.py).
 MNIST is a database of handwritten digits, with 60,000 examples for training and 10,000 examples for testing. (Website: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/))
+=======
+Hi
+This repository is for learning deep learning and implementing the different architecture using tensorflow library.
+>>>>>>> 333f229c7dcc7aa27a93e2340307f86bc8535bd0
